@@ -1,0 +1,4 @@
+pandas
+numpy
+confluent-kafka==1.7.0
+python-dotenv==0.17.1
